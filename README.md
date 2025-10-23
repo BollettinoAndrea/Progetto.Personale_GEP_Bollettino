@@ -29,10 +29,10 @@ Questo limita l’accesso alla stampa 3D a una piccola nicchia di esperti, esclu
 ### In sintesi, Bam3D si rivolge a chiunque voglia sfruttare la stampa 3D senza barriere tecniche o economiche.
 
 ## Competitors:
- - Treatstock – piattaforma globale per la stampa 3D on-demand;
- - Craftcloud (di All3DP) – marketplace che confronta i prezzi di diversi servizi di stampa 3D;
- - Shapeways – leader internazionale nella stampa 3D personalizzata;
- - 3D Hubs / Hubs.com – rete di produzione digitale che include stampa 3D, CNC e altre tecnologie.
+ - Xometry – piattaforma globale per la stampa 3D on-demand;
+ - Made in add – marketplace che confronta i prezzi di diversi servizi di stampa 3D;
+ - ProtoLabs Network – leader internazionale nella stampa 3D personalizzata;
+ - PolyD – rete di produzione digitale che include stampa 3D, CNC e altre tecnologie.
 ### Bam3D si distingue per la semplicità d’uso, l’approccio local-first (collaborazione con service di stampa italiani) e l’integrazione tra catalogo, richiesta su misura e upload diretto in un unico flusso.
 
 ## Tagline:
