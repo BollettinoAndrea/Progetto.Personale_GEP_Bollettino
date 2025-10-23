@@ -1,5 +1,4 @@
- 
-<span style="color:#00BFFF">Progetto.Personale_GEP_Bollettino</span>
+# Progetto.Personale_GEP_Bollettino
 
 ## Nome:
 ### Bollettino Andrea
