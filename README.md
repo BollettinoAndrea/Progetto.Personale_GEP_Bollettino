@@ -30,12 +30,57 @@ Questo limita l’accesso alla stampa 3D a una piccola nicchia di esperti, esclu
 
 ## Competitors:
 <img width="1215" height="583" alt="tab" src="https://github.com/user-attachments/assets/7abfdcd0-9937-4ba2-ae3e-8d6d95b92dd4" />
+
  - Xometry – piattaforma globale per la stampa 3D on-demand;
  - Made in add – marketplace che confronta i prezzi
  di diversi servizi di stampa 3D;
  - ProtoLabs Network – leader internazionale nella stampa 3D personalizzata;
  - PolyD – rete di produzione digitale che include stampa 3D, CNC e altre tecnologie.
 ### Bam3D si distingue per la semplicità d’uso, l’approccio local-first (collaborazione con service di stampa italiani) e l’integrazione tra catalogo, richiesta su misura e upload diretto in un unico flusso.
+
+## Requisiti Funzionali
+
+### Registrazione e Autenticazione Utenti
+- Creazione account e gestione del profilo personale.
+
+### Catalogo Modelli 3D
+- Visualizzazione di modelli 3D con categorie, descrizioni e anteprime.  
+- Possibilità di scaricare o ordinare la stampa di un modello.
+
+### 3. Upload File 3D
+- L’utente può caricare i propri file per richiedere la stampa.
+
+### 4. Richiesta di Progetto Personalizzato
+- Modulo per descrivere il progetto desiderato e richiedere preventivo o contatto con un designer.
+
+### Preventivo Automatico e Ordine Stampa
+- Calcolo automatico del costo in base a materiale, dimensioni e tempi di consegna.  
+- Possibilità di confermare e pagare l’ordine online.
+
+### Tracking Ordine
+- Monitoraggio dello stato dell’ordine: *in lavorazione*, *spedito*, *consegnato*.
+
+### Gestione Amministrativa
+- Pannello di controllo per gestire ordini, utenti e pagamenti.
+
+## Requisiti Non Funzionali
+
+### Usabilità
+- Interfaccia semplice e intuitiva, adatta anche a utenti non tecnici.  
+- Navigazione chiara e responsive.
+
+### Prestazioni
+- Caricamento rapido dei modelli 3D e delle anteprime.
+
+### Sicurezza
+- Protezione dei dati e dei pagamenti tramite crittografia.  
+- Accesso autenticato e gestione dei permessi.
+
+### Scalabilità
+- Capacità di gestire un numero crescente di utenti e file caricati.
+
+### Manutenibilità
+- Architettura modulare per aggiornamenti e miglioramenti futuri.
 
 ## Tagline:
 ### Crea, carica, stampa: la 3D experience per tutti.
