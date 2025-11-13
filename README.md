@@ -29,8 +29,10 @@ Questo limita l’accesso alla stampa 3D a una piccola nicchia di esperti, esclu
 ### In sintesi, Bam3D si rivolge a chiunque voglia sfruttare la stampa 3D senza barriere tecniche o economiche.
 
 ## Competitors:
+<img width="1215" height="583" alt="tab" src="https://github.com/user-attachments/assets/7abfdcd0-9937-4ba2-ae3e-8d6d95b92dd4" />
  - Xometry – piattaforma globale per la stampa 3D on-demand;
- - Made in add – marketplace che confronta i prezzi di diversi servizi di stampa 3D;
+ - Made in add – marketplace che confronta i prezzi
+ di diversi servizi di stampa 3D;
  - ProtoLabs Network – leader internazionale nella stampa 3D personalizzata;
  - PolyD – rete di produzione digitale che include stampa 3D, CNC e altre tecnologie.
 ### Bam3D si distingue per la semplicità d’uso, l’approccio local-first (collaborazione con service di stampa italiani) e l’integrazione tra catalogo, richiesta su misura e upload diretto in un unico flusso.
