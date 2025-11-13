@@ -94,3 +94,8 @@ Questo limita l’accesso alla stampa 3D a una piccola nicchia di esperti, esclu
  - Integrazione pagamenti: Carte di credito o debito / Google e Apple Pay / PayPal
  - App mobile: Flutter o React Native
  - AI/assistente di progetto (futuro): integrazione con modelli generativi per suggerimenti di design o analisi dei file STL.
+
+## Diagramma UML:
+### link: https://yuml.me/andrebolle/bam3d.svg
+<img width="778" height="699" alt="image" src="https://github.com/user-attachments/assets/df770a1b-ee49-4cf2-81c8-e8e6c8a738fd" />
+
