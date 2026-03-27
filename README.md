@@ -101,3 +101,6 @@ Questo limita l’accesso alla stampa 3D a una piccola nicchia di esperti, esclu
 
 ## Elvator Pitch:
 Bam3D è una piattaforma digitale che rende la stampa 3D accessibile a tutti. Gli utenti possono scegliere un modello dal catalogo, caricare un proprio file o richiedere un progetto personalizzato, ottenere un preventivo automatico e ricevere l’oggetto stampato direttamente a casa. Bam3D semplifica un processo oggi complesso, eliminando barriere tecniche e riducendo i costi di accesso.
+
+## Presentazione:
+https://docs.google.com/presentation/d/1kDWSg2k74CtUBhQt8v2mUZQT2lpAiEYkCWs-M9dhS9U/edit?usp=drivesdk
