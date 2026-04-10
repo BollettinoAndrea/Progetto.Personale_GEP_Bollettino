@@ -104,3 +104,60 @@ Bam3D è una piattaforma digitale che rende la stampa 3D accessibile a tutti. Gl
 
 ## Presentazione:
 https://docs.google.com/presentation/d/1kDWSg2k74CtUBhQt8v2mUZQT2lpAiEYkCWs-M9dhS9U/edit?usp=drivesdk
+
+## Requisiti di Dominio
+
+- Rispetto delle licenze sui modelli 3D  
+- Protezione dei file caricati dagli utenti  
+- Collaborazione con service di stampa certificati  
+- Gestione dei materiali (PLA, ABS, resina, ecc.)  
+- Calcolo realistico dei costi  
+- Conformità GDPR  
+
+## User Stories
+
+| Attore | Voglio | In modo da |
+|-------|--------|-----------|
+| Utente | Registrarmi | Accedere ai servizi |
+| Utente | Fare login | Accedere al profilo |
+| Utente | Sfogliare il catalogo | Trovare modelli |
+| Utente | Caricare un file 3D | Stampare un progetto |
+| Utente | Richiedere un progetto | Ottenere un oggetto su misura |
+| Utente | Visualizzare un preventivo | Conoscere il costo |
+| Utente | Effettuare un pagamento | Completare l’ordine |
+| Utente | Tracciare un ordine | Sapere lo stato |
+| Amministratore | Gestire ordini | Controllare la produzione |
+| Amministratore | Gestire utenti | Garantire sicurezza |
+
+## Business Model
+
+Bam3D si basa su un modello di marketplace digitale.
+
+- Commissione su ogni ordine di stampa  
+- Collaborazioni con service locali  
+- Servizi extra a pagamento:
+  - progettazione personalizzata  
+  - materiali premium  
+  - spedizioni rapide  
+
+## WBS
+
+1. Analisi e progettazione  
+2. Backend  
+3. Frontend  
+4. Integrazioni  
+5. Testing  
+6. Lancio  
+
+---
+
+## Gantt (Cronoprogramma)
+
+| Fase | Durata |
+|------|--------|
+| Analisi e progettazione | 2 settimane |
+| Backend sviluppo | 4 settimane |
+| Frontend sviluppo | 4 settimane |
+| Integrazioni | 3 settimane |
+| Testing | 2 settimane |
+| Lancio | 1 settimana |
