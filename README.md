@@ -151,7 +151,7 @@ Bam3D si basa su un modello di marketplace digitale.
 
 ---
 
-## Gantt (Cronoprogramma)
+## Gantt
 
 | Fase | Durata |
 |------|--------|
